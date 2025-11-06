@@ -51,10 +51,11 @@ Hi, I'm Manisha Thakare, a fresher DevOps enthusiast with hands-on knowledge in 
 ## 🌱 Contribution Graph
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/manisha-thakare/snk/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/manisha-thakare/snk/output/github-contribution-grid-snake.svg" />
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/manisha-thakare/snk/output/github-contribution-grid-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/manishathakare19/snk/manual-run-output/only-svg/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/manishathakare19/snk/manual-run-output/only-svg/github-contribution-grid-snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/manishathakare19/snk/manual-run-output/only-svg/github-contribution-grid-snake-blue.svg" />
 </picture>
+
 
 
 
