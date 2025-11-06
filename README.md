@@ -23,7 +23,8 @@ Hi, I'm Manisha Thakare, a fresher DevOps enthusiast with hands-on knowledge in 
 ---
 
 
-!Manisha's GitHub stats](https://github-readme-stats.vercel.app/api?username=manishathakare19&show_icons=true&theme=radical)
+![Manisha's GitHub stats](https://github-readme-stats.vercel.app/api?username=manishathakare19&show_icons=true&theme=radical)
+
 
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
