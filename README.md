@@ -51,10 +51,11 @@ Hi, I'm Manisha Thakare, a fresher DevOps enthusiast with hands-on knowledge in 
 ## 🌱 Contribution Graph
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark-manishathakare19.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-manishathakare19.svg" />
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-manishathakare19.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/manisha-thakare/snk/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/manisha-thakare/snk/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/manisha-thakare/snk/output/github-contribution-grid-snake.svg" />
 </picture>
+
 
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=manishathakare19&color=green&style=flat-square)
