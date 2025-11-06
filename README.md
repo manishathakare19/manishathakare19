@@ -2,11 +2,12 @@
 
 Hi, I'm Manisha Thakare, a fresher DevOps enthusiast with hands-on knowledge in Linux, AWS, Jenkins CI/CD, and containerization using Docker and Kubernetes. I’m passionate about cloud computing, automation, and building scalable, production-ready solutions.
 
-🔭 Currently working on cloud-native solutions, CI/CD pipelines, and DevOps projects
-🌱 Always learning about emerging technologies, observability, and best practices
-👯 Looking to collaborate on open-source projects and DevOps initiatives
-💬 Ask me about Linux, AWS, Jenkins, Docker, Kubernetes, and cloud automation
-⚡ Fun fact: I enjoy experimenting with new tools and sharing knowledge with others
+- 🔭 Currently working on cloud-native solutions, CI/CD pipelines, and DevOps projects
+- 🌱 Always learning about emerging technologies, observability, and best practices
+- 👯 Looking to collaborate on open-source projects and DevOps initiatives
+- 💬 Ask me about Linux, AWS, Jenkins, Docker, Kubernetes, and cloud automation
+- ⚡ Fun fact: I enjoy experimenting with new tools and sharing knowledge with others
+
 
 ---
 
@@ -22,7 +23,7 @@ Hi, I'm Manisha Thakare, a fresher DevOps enthusiast with hands-on knowledge in 
 ---
 
 
-![Abhipray's GitHub stats](https://github-readme-stats.vercel.app/api?username=abhipraydhoble&show_icons=true&theme=radical)
+!Manisha's GitHub stats](https://github-readme-stats.vercel.app/api?username=manishathakare19&show_icons=true&theme=radical)
 
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
