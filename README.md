@@ -26,7 +26,8 @@ Hi, I'm Manisha Thakare, a fresher DevOps enthusiast with hands-on knowledge in 
 ![Manisha's GitHub stats](https://github-readme-stats.vercel.app/api?username=manishathakare19&show_icons=true&theme=radical)
 
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=Talk%20is%20cheap.%20Show%20me%20the%20code.)
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=Code%20with%20passion,%20automate%20with%20purpose.)
+
 
 
 ---
